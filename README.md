@@ -14,7 +14,7 @@ The key business questions are:
 6. During which weather conditions did most accidents occur?
 
 ## Data Understanding and Analysis
-The dataset used for this analysis is a dataset from the [Kaggle National Transport Safety Board] https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses webiste which is based on records of aviation accidents, which are 88,889 in number and span across 31 columns. Data includes accident dates, locations, injury severity, damage to aircraft, and more.
+The dataset used for this analysis is a dataset from the [Kaggle National Transport Safety Board](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) webiste which is based on records of aviation accidents, which are 88,889 in number and span across 31 columns. Data includes accident dates, locations, injury severity, damage to aircraft, and more.
 
 ### Finding from the data analysis
 #### Country count
