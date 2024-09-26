@@ -56,3 +56,7 @@ Based on the graph, most accidents occur under Visual Meteorological Conditions 
 - In conclusion, the analysis of NTSB data reveals that while aviation safety has improved over the years, certain flight phases and aircraft models remain more prone to accidents. 
 - To enhance safety, the company is recommended to invest in airplanes with advanced navigation and landing technologies, prioritize multi-engine aircraft, diversify training fleets, and implement rigorous pilot training and advanced weather monitoring systems. By adopting these measures, the aviation industry can continue to build on the positive trend towards safer air travel.
 
+# Tableau Visualizations
+The following link ![TableauVizz](https://public.tableau.com/app/profile/augustine.komen/viz/project-26-09-2024-AK/Dashboard1?publish=yes) is a link to the dashbord that shows the visualizations that were visualized on Tableau workbooks and added to a dashboard.
+
+
